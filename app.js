@@ -47,6 +47,14 @@ const populateTodos = () => {
 }
 
 
+//Then capture the ol item into a variable (getElementById)
+
+
+//createElement to make a new li
+//createText inside the li using the title property.
+// Now append the text to the new element.
+// Then append the element to the ol element.
+// Put all of that inside your populateTodos function.
 
 
 
@@ -54,6 +62,49 @@ const populateTodos = () => {
 
 
 
+//JUANS WORK
+
+// const populateUserSelection = () => {
+//   console.log('hey im working')
+//   const inputElement = document.getElementById('input')
+//   const inputElement = document.querySelector('input')
+//   console.log('inputElement:' inputElement)
+//   let inputValue = inputElement[0].value
+//   //clear array 
+//   //filter userId  of the line number in the input
+//   todoByUserId = arrayOfTodos.filter(todo =>{
+//     console.log('todo.userId', todo)
+//     if (todo.userid === inputValue
+//       return todo
+//     }
+//     )
+//   //store the new Array
+// }
+// const removeTodos = {} => {
+//   //remove todos
+//   //show todos
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// }
 
   // const populateTodos = () => {
   // access the ol tag to insert list items
